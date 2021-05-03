@@ -1,2 +1,25 @@
 # LAB_UTS
 TUGAS UTS PRAKTIKUM MATAKULIAH PEMROGRAMAN WEB
+
+NAMA  : MONIKA PAKPAHAN
+
+NIM : 311910554
+
+KELAS : TI. 19. A. 3
+
+MATAKULIAH  : PEMROGRMAN WEB
+
+TUGAS MEMBUAT CONVERSI DARI DESAIN WEB/SKETSA/MOCKUP KE DALAM HTML DAN CSS MINIMAL HOMEPAGENYA
+
+1. KODE HTML
+![zz](https://user-images.githubusercontent.com/59879254/116919502-8f4bda80-ac7b-11eb-9783-e954d15af0d8.png)
+
+2. KODE SYLE CSS
+![zzz](https://user-images.githubusercontent.com/59879254/116919555-a2f74100-ac7b-11eb-928e-8d0437f7b033.png)
+![zzzz](https://user-images.githubusercontent.com/59879254/116919564-a5f23180-ac7b-11eb-8845-8d160f695bda.png)
+
+3. HASILNYA JUKA DITAMPILKAN PADA BROWSER
+![z](https://user-images.githubusercontent.com/59879254/116919623-bbfff200-ac7b-11eb-918c-c21e654e2bf5.png)
+
+
+
